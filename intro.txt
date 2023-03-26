@@ -1,0 +1,2 @@
+SocialMedia Platform-
+mongoDB,mongoose,express, dotenv, helmet, morgan, nodemon, bcrypt, timeago.js, context api
